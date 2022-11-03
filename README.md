@@ -21,6 +21,11 @@ I am a _Blockchain Engineer_. Currently, I am developing blockchain solution on 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
 
+## Write-ups
+
+[Upgradable Smart Contracts](https://medium.com/arcana-network-blog/smart-contract-upgrades-9b7dc2aaff77)
+
+
 
 ## 📱 Connect with me
 
