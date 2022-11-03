@@ -22,7 +22,7 @@ Blockchain networks that I have worked so far
 ![](https://img.shields.io/badge/Frame-Substrate-informational?style=flat&logoColor=white&color=4d0092)
 
 
-## 📱 Contact me
+## 📱 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himankjain/)](https://www.linkedin.com/in/himankjain/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/steel_feel_)](https://twitter.com/steel_feel_)
